@@ -42,7 +42,7 @@ class Contact extends Component {
                 <div className="form-group">
                   <textarea
                     className="form-control"
-                    placeholder="Your Message"
+                    placeholder="Your Message "
                     style={{ width: "100%", height: 150 }}
                     defaultValue={""}
                   />

@@ -47,7 +47,7 @@ class Projects extends Component {
           </div>
         </section>
         <div>
-          {/* Portfolio Modals*/}
+          {/* Portfolio Modals */}
 
           {resumeData.projectModals.map((data, index) => {
             return (

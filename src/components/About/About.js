@@ -34,13 +34,14 @@ class About extends Component {
               I knew I was hooked into the world of
               <span>Web Development.</span> My journey so far has offered me
               engaging challenges that made me continually learn and improve my
-              skills. I primarily focus on writing clean, elegant and efficient
-              code. I am proficient in <span>HTML</span>, <span>CSS</span> and
-              <span> JavaScript</span> plus modern libraries and frameworks.
+              skills. I focus on writing clean, elegant and efficient code. I am
+              proficient in <span>HTML</span>, <span>CSS</span> and
+              <span> JavaScript</span> plus modern <span>libraries</span> and
+              <span>frameworks.</span>
             </p>
           </div>
         </div>
-        <ul className="skillList">
+        <ul className="skill-list">
           <li>
             <i className="fab fa-html5"></i>
           </li>
