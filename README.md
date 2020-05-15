@@ -1,13 +1,12 @@
-# React JS Portfolio Web Site
+# React JS Portfolio Website
 
-![React JS Portfolio Web Site](README.png?raw=true "React JS Portfolio Web Site")
+![React JS Portfolio Website](README.png?raw=true "React JS Portfolio Website")
 
 ### <a href="https://marius-resume-app.herokuapp.com/">LIVE DEMO</a>
 
 ## Description
 
-This is a ReactJS based personal portfolio website . I have built this portfolio to showcase things I have learned since I started the self-tought Front End developer journey.
-Data is fed directly from a JS File. This means that in its final form, it can be customized and used by anybody simply by filling in their own personal info into the resumeData.js file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
+This is a ReactJS based personal portfolio website. Because data is fed directly from a JS File, this means that it can be customized and used by anybody simply by filling in their own personal info into the resumeData.js file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
 
 ## Make it Your Own!
 
