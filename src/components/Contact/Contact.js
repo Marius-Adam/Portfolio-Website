@@ -10,7 +10,7 @@ class Contact extends Component {
           <h3 className="sectionName">
             Contact<span>.</span>
           </h3>
-          <form method="post" action="mailto:marius.c.adam@gmail.com">
+          <form method="post" action="mailto:">
             <div className="row">
               <div className="col-md-6">
                 <div className="form-group">

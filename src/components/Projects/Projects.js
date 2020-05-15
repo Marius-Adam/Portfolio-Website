@@ -5,7 +5,6 @@ class Projects extends Component {
   state = {};
   render() {
     let resumeData = this.props.resumeData;
-    console.log(resumeData.projects);
     return (
       <>
         <section className="container-fluid " id="projectSection">
