@@ -1,0 +1,95 @@
+#headerSection {
+  padding: 48px;
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+
+  .jumbotron {
+    border-radius: 20px;
+    width: 80%;
+    margin: auto;
+    background: url("/images/Jumbotron.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.6);
+    box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.6);
+
+    h1 {
+      font-family: "Spartan", sans-serif;
+      font-size: 90px;
+      font-weight: 900;
+      line-height: 80px;
+      letter-spacing: -7px;
+      color: #f5f5f5;
+    }
+
+    p {
+      font-family: "Sanchez", sans-serif;
+      color: #f5f5f5;
+      font-size: 20px;
+    }
+
+    li {
+      display: inline;
+      padding-right: 20px;
+      font-size: 40px;
+
+      a {
+        color: #f5f5f5;
+
+        &:hover {
+          color: #57c5b3;
+          transition: 0.3s;
+        }
+      }
+    }
+  }
+  .chevron {
+    color: #100339;
+    font-size: 60px;
+    padding: 0px;
+
+    &:hover {
+      color: #57c5b3;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    &:focus {
+      outline: none !important;
+      box-shadow: none;
+    }
+
+    &:active {
+      outline: none !important;
+      box-shadow: none;
+    }
+  }
+}
+
+@media (max-width: 796px) {
+  #headerSection {
+    padding: 0px;
+    background: #f5f5f5;
+
+    .jumbotron {
+      background: url("/images/JumbotronMobile.png") no-repeat center center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      width: 100%;
+      border-radius: 0px;
+      text-align: center;
+
+      h1 {
+        font-size: 60px;
+      }
+
+      li {
+        padding: 0px 10px 0px 10px;
+      }
+    }
+  }
+}
