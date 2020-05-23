@@ -28,16 +28,13 @@ class About extends Component {
           <div className="col-md-6">
             <p>
               Hello, my name is <span>Marius Adam</span>. I am a self-taught
-              <span> Front-End Developer</span>. I was introduced to programming
-              by a close friend and from the moment I produced
-              <span>"Hello World"</span> in the console of my first application
-              I knew I was hooked into the world of
-              <span>Web Development.</span> My journey so far has offered me
-              engaging challenges that made me continually learn and improve my
-              skills. I focus on writing clean, elegant and efficient code. I am
+              <span> Front-End Developer</span>. My journey so far has offered
+              me engaging challenges that made me constantly learn and improve
+              my skills. I focus on writing clean, efficient code and I am
               proficient in <span>HTML</span>, <span>CSS</span> and
-              <span> JavaScript</span> plus modern <span>libraries</span> and
-              <span>frameworks.</span>
+              <span>JavaScript</span>. I`ve also got a moderate experience and
+              knowledge of <span>Git Version Control</span> and popular
+              libraries and frameworks.
             </p>
           </div>
         </div>

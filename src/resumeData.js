@@ -36,31 +36,31 @@ let resumeData = {
   projects: [
     {
       modalLink: "#projectModal1",
-      projectCover: "/images/projects/project-cover-1.png",
+      projectCover: "/images/projects/project1.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
     {
       modalLink: "#projectModal2",
-      projectCover: "/images/projects/project-cover-2.png",
+      projectCover: "/images/projects/project2.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
     {
       modalLink: "#projectModal3",
-      projectCover: "/images/projects/project-cover-1.png",
+      projectCover: "/images/projects/project3.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
     {
       modalLink: "#projectModal4",
-      projectCover: "/images/projects/project-cover-1.png",
+      projectCover: "/images/projects/project4.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
     {
       modalLink: "#projectModal5",
-      projectCover: "/images/projects/project-cover-2.png",
+      projectCover: "/images/projects/project5.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
@@ -79,7 +79,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/01-full.jpg",
+      projectImg: "/images/projects/project1.png",
     },
     {
       modalId: "projectModal2",
@@ -87,7 +87,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/01-full.jpg",
+      projectImg: "/images/projects/project2.png",
     },
     {
       modalId: "projectModal3",
@@ -95,7 +95,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/01-full.jpg",
+      projectImg: "/images/projects/project3.png",
     },
     {
       modalId: "projectModal4",
@@ -103,7 +103,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/01-full.jpg",
+      projectImg: "/images/projects/project4.png",
     },
     {
       modalId: "projectModal5",
@@ -111,7 +111,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/01-full.jpg",
+      projectImg: "/images/projects/project5.png",
     },
     {
       modalId: "projectModal6",
