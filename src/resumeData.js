@@ -37,8 +37,8 @@ let resumeData = {
     {
       modalLink: "#projectModal1",
       projectCover: "/images/projects/Project1.png",
-      captionHeading: "Project",
-      captionSub: "Project Project Project",
+      captionHeading: "JS Shopping Cart",
+      captionSub: "Vanilla JS Shopping Cart With Local Storage",
     },
     {
       modalLink: "#projectModal2",
@@ -80,6 +80,8 @@ let resumeData = {
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
       projectImg: "/images/projects/Project1.png",
+      code: "https://github.com/Marius-Adam/leica-shopping-cart",
+      liveDemo: "https://marius-adam.github.io/leica-shopping-cart/",
     },
     {
       modalId: "projectModal2",

@@ -81,22 +81,26 @@ class Projects extends Component {
                               alt=""
                             />
                             <p>{data.projectDetails}</p>
-                            <button
-                              className="btn btn-primary"
-                              data-dismiss="modal"
-                              type="button"
-                            >
-                              <i className="fas fa-eye mr-1" />
-                              Live Demo
-                            </button>
-                            <button
-                              className="btn btn-primary m-2"
-                              data-dismiss="modal"
-                              type="button"
-                            >
-                              <i className="fas fa-code mr-1" />
-                              Source
-                            </button>
+                            <a href={data.liveDemo}>
+                              <button
+                                className="btn btn-primary"
+                                data-dismiss="modal"
+                                type="button"
+                              >
+                                <i className="fas fa-eye mr-1" />
+                                Live Demo
+                              </button>
+                            </a>
+                            <a href={data.code}>
+                              <button
+                                className="btn btn-primary m-2"
+                                data-dismiss="modal"
+                                type="button"
+                              >
+                                <i className="fas fa-code mr-1" />
+                                Source
+                              </button>
+                            </a>
                           </div>
                         </div>
                       </div>
