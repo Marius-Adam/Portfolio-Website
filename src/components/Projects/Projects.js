@@ -78,13 +78,21 @@ class Projects extends Component {
                               alt=""
                             />
                             <p>{data.projectDetails}</p>
-                            <a href={data.liveDemo}>
+                            <a
+                              href={data.liveDemo}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
                               <button className="btn btn-primary" type="button">
                                 <i className="fas fa-eye mr-1" />
                                 Live Demo
                               </button>
                             </a>
-                            <a href={data.code}>
+                            <a
+                              href={data.code}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
                               <button
                                 className="btn btn-primary m-2"
                                 type="button"

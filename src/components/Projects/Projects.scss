@@ -83,7 +83,7 @@
     max-width: 100vw;
   }
   .modal-content {
-    padding: 20px 0px 24px 0px;
+    padding-top: 8px;
     width: 60%;
     margin: auto;
     text-align: center;
@@ -186,6 +186,10 @@
   .project-modal .modal-content {
     padding: 0px;
     width: 90%;
+
+    h2 {
+      font-size: 35px;
+    }
 
     .close-modal {
       display: none;
