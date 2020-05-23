@@ -36,31 +36,31 @@ let resumeData = {
   projects: [
     {
       modalLink: "#projectModal1",
-      projectCover: "/images/projects/project1.png",
+      projectCover: "/images/projects/Project1.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
     {
       modalLink: "#projectModal2",
-      projectCover: "/images/projects/project2.png",
+      projectCover: "/images/projects/Project2.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
     {
       modalLink: "#projectModal3",
-      projectCover: "/images/projects/project3.png",
+      projectCover: "/images/projects/Project3.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
     {
       modalLink: "#projectModal4",
-      projectCover: "/images/projects/project4.png",
+      projectCover: "/images/projects/Project4.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
     {
       modalLink: "#projectModal5",
-      projectCover: "/images/projects/project5.png",
+      projectCover: "/images/projects/Project5.png",
       captionHeading: "Project",
       captionSub: "Project Project Project",
     },
