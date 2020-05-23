@@ -68,13 +68,10 @@ class Projects extends Component {
                       <div className="row justify-content-center">
                         <div className="col-md-8">
                           <div className="modal-body">
-                            <h2>
+                            <h2 className="pb-4">
                               {data.projectTitle}
                               <span>.</span>
                             </h2>
-                            <p className="item-intro text-muted">
-                              {data.projectSubtitle}
-                            </p>
                             <img
                               className="img-fluid d-block mx-auto"
                               src={data.projectImg}
@@ -82,11 +79,7 @@ class Projects extends Component {
                             />
                             <p>{data.projectDetails}</p>
                             <a href={data.liveDemo}>
-                              <button
-                                className="btn btn-primary"
-                                data-dismiss="modal"
-                                type="button"
-                              >
+                              <button className="btn btn-primary" type="button">
                                 <i className="fas fa-eye mr-1" />
                                 Live Demo
                               </button>
@@ -94,7 +87,6 @@ class Projects extends Component {
                             <a href={data.code}>
                               <button
                                 className="btn btn-primary m-2"
-                                data-dismiss="modal"
                                 type="button"
                               >
                                 <i className="fas fa-code mr-1" />

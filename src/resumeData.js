@@ -75,10 +75,9 @@ let resumeData = {
   projectModals: [
     {
       modalId: "projectModal1",
-      projectTitle: "Project Title",
-      projectSubtitle: "Project Subtitle Project Subtitle",
+      projectTitle: "JS Shopping Cart",
       projectDetails:
-        "Project Details Project Details Project Details Project Details Project Details ",
+        "Vanilla JS shopping cart with implemented Local storage. Data is fed from Contentful where more products can be easily added withouth the need of re-deploy.",
       projectImg: "/images/projects/Project1.png",
       code: "https://github.com/Marius-Adam/leica-shopping-cart",
       liveDemo: "https://marius-adam.github.io/leica-shopping-cart/",
