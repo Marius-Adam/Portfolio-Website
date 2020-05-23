@@ -5,7 +5,7 @@ let resumeData = {
   surname: "Adam",
   jobTitle: "Front-End Developer",
   cvLink:
-    "https://docs.google.com/document/d/1ZgzwCiQjpczoxV9r7dlak0CPRLbJ96lPyRaVtd5yEHA/edit?usp=sharing",
+    "https://drive.google.com/file/d/16fMgoUsveJUNdOG1_eU6bRnG4CYRAKry/view?usp=sharing",
   socialLinks: [
     {
       name: "LinkedIn",
@@ -79,7 +79,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/projects/project1.png",
+      projectImg: "/images/projects/Project1.png",
     },
     {
       modalId: "projectModal2",
@@ -87,7 +87,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/projects/project2.png",
+      projectImg: "/images/projects/Project2.png",
     },
     {
       modalId: "projectModal3",
@@ -95,7 +95,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/projects/project3.png",
+      projectImg: "/images/projects/Project3.png",
     },
     {
       modalId: "projectModal4",
@@ -103,7 +103,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/projects/project4.png",
+      projectImg: "/images/projects/Project4.png",
     },
     {
       modalId: "projectModal5",
@@ -111,7 +111,7 @@ let resumeData = {
       projectSubtitle: "Project Subtitle Project Subtitle",
       projectDetails:
         "Project Details Project Details Project Details Project Details Project Details ",
-      projectImg: "/images/projects/project5.png",
+      projectImg: "/images/projects/Project5.png",
     },
     {
       modalId: "projectModal6",

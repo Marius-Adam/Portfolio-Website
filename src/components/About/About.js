@@ -32,7 +32,7 @@ class About extends Component {
               me engaging challenges that made me constantly learn and improve
               my skills. I focus on writing clean, efficient code and I am
               proficient in <span>HTML</span>, <span>CSS</span> and
-              <span>JavaScript</span>. I`ve also got a moderate experience and
+              <span> JavaScript</span>. I`ve also got a moderate experience and
               knowledge of <span>Git Version Control</span> and popular
               libraries and frameworks.
             </p>
