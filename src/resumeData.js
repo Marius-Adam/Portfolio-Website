@@ -68,7 +68,7 @@ let resumeData = {
       modalLink: "#projectModal6",
       projectCover: "/images/projects/Project6.png",
       captionHeading: "React Data Table",
-      captionSub: "Smart Data Table React",
+      captionSub: "Smart React Data Table",
     },
   ],
 
@@ -122,7 +122,7 @@ let resumeData = {
       modalId: "projectModal6",
       projectTitle: "React Data Table",
       projectDetails:
-        "In development. Refactoring old code and implementing react hooks",
+        "In development. Refactoring old code and implementing react hooks.",
       projectImg: "/images/projects/Project6.png",
     },
   ],
