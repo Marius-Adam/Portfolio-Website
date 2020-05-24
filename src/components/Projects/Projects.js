@@ -75,7 +75,7 @@ class Projects extends Component {
                             <img
                               className="img-fluid d-block mx-auto"
                               src={data.projectImg}
-                              alt="project"
+                              alt="modal project cover"
                             />
                             <p>{data.projectDetails}</p>
                             <a

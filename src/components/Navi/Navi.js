@@ -12,7 +12,7 @@ class Navi extends Component {
     return (
       <nav className="navbar navbar-expand-lg fixed-top ">
         <a className="navbar-brand" href="#home" onClick={this.scrollToTop}>
-          <img src={resumeData.logo} width={60} height={30} alt="logo" />
+          <img src={resumeData.logo} width={60} height={30} alt="Logo" />
         </a>
         <button
           className="navbar-toggler border-0"

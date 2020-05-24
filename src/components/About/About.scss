@@ -87,6 +87,10 @@
       padding: 0px;
       text-align: center;
       color: #100339;
+
+      span {
+        color: #100339;
+      }
     }
 
     img {
@@ -100,10 +104,6 @@
 
     ul.skill-list li {
       padding: 10px;
-      color: #100339;
-    }
-
-    span {
       color: #100339;
     }
   }
