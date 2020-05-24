@@ -5,7 +5,7 @@ let resumeData = {
   surname: "Adam",
   jobTitle: "Front-End Developer",
   cvLink:
-    "https://drive.google.com/file/d/16fMgoUsveJUNdOG1_eU6bRnG4CYRAKry/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZMJYPHK_kjVDvNYcUz8uMMa0IEOMBgIs/view?usp=sharing",
   socialLinks: [
     {
       name: "LinkedIn",
@@ -26,11 +26,6 @@ let resumeData = {
       name: "Stack",
       link: "https://stackoverflow.com/users/13433802/mcadam",
       icon: "fab fa-stack-overflow",
-    },
-    {
-      name: "React",
-      link: "https://reactjs.org/",
-      icon: "fab fa-react",
     },
   ],
   projects: [
@@ -77,7 +72,7 @@ let resumeData = {
       modalId: "projectModal1",
       projectTitle: "JS Shopping Cart",
       projectDetails:
-        "Vanilla JS shopping cart with implemented Local storage. Data is fed from Contentful where more products can be easily added withouth the need of re-deploy.",
+        "Vanilla JS shopping cart with implemented Local storage. Data is fed from Contentful where more products can be easily added without the need of re-deploy.",
       projectImg: "/images/projects/Project1.png",
       code: "https://github.com/Marius-Adam/leica-shopping-cart",
       liveDemo: "https://marius-adam.github.io/leica-shopping-cart/",

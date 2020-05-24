@@ -33,8 +33,10 @@ class About extends Component {
               my skills. I focus on writing clean, efficient code and I am
               proficient in <span>HTML</span>, <span>CSS</span> and
               <span> JavaScript</span>. I`ve also got a moderate experience and
-              knowledge of <span>Git Version Control</span> and popular
-              libraries and frameworks.
+              knowledge of <span>Git Version Control</span> plus popular
+              libraries and frameworks. Currently working on solidifying my
+              <span>JavaScript</span> and <span>React</span> fundamentals by
+              building small projects and contributing to open source projects.
             </p>
           </div>
         </div>

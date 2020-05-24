@@ -29,7 +29,7 @@ class Projects extends Component {
                       <img
                         className="img-fluid"
                         src={data.projectCover}
-                        alt=""
+                        alt="project cover"
                       />
                     </a>
                     <div className="project-caption">
@@ -75,7 +75,7 @@ class Projects extends Component {
                             <img
                               className="img-fluid d-block mx-auto"
                               src={data.projectImg}
-                              alt=""
+                              alt="project"
                             />
                             <p>{data.projectDetails}</p>
                             <a
