@@ -36,7 +36,7 @@ class About extends Component {
               knowledge of <span>Git Version Control</span> plus popular
               libraries and frameworks. Currently working on solidifying my
               <span>JavaScript</span> and <span>React</span> fundamentals by
-              building small projects and contributing to open source projects.
+              contributing to open source projects on GitHub.
             </p>
           </div>
         </div>
