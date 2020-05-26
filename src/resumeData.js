@@ -62,8 +62,8 @@ let resumeData = {
     {
       modalLink: "#projectModal6",
       projectCover: "/images/projects/Project6.png",
-      captionHeading: "React Data Table",
-      captionSub: "Smart React Data Table",
+      captionHeading: "React Budget Calculator",
+      captionSub: "Built with React Hooks and Context API",
     },
   ],
 
@@ -115,9 +115,9 @@ let resumeData = {
     },
     {
       modalId: "projectModal6",
-      projectTitle: "React Data Table",
+      projectTitle: "React Budget Calculator",
       projectDetails:
-        "In development, refactoring old code and implementing react hooks.",
+        "I build this budget calculator as a result of a tutorial I found on React Hooks. Hooks are functions that let you “hook into” React state and lifecycle features from function components.",
       projectImg: "/images/projects/Project6.png",
     },
   ],
