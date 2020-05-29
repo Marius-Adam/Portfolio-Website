@@ -119,6 +119,8 @@ let resumeData = {
       projectDetails:
         "I build this budget calculator as a result of a tutorial I found on React Hooks. Hooks are functions that let you “hook into” React state and lifecycle features from function components.",
       projectImg: "/images/projects/Project6.png",
+      code: "https://github.com/Marius-Adam/react-budget-calculator",
+      liveDemo: "https://marius-adam.github.io/react-budget-calculator/",
     },
   ],
 };
