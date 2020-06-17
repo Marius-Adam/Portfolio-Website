@@ -72,7 +72,7 @@ let resumeData = {
       modalId: "projectModal1",
       projectTitle: "JS Shopping Cart",
       projectDetails:
-        "Vanilla JS shopping cart with implemented Local storage. Data is fed from Contentful where more products can be easily added without the need of re-deploy.",
+        "Vanilla JS shopping cart with implemented Local storage. Data is fed from Contentful where more products can be easily added re-deploy.",
       projectImg: "/images/projects/Project1.png",
       code: "https://github.com/Marius-Adam/leica-shopping-cart",
       liveDemo: "https://marius-adam.github.io/leica-shopping-cart/",

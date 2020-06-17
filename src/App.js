@@ -11,7 +11,7 @@ import Footer from "./components/Footer/Footer";
 
 import resumeData from "./resumeData";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <Navi resumeData={resumeData} />
@@ -23,5 +23,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
