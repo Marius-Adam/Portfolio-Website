@@ -30,7 +30,7 @@ export default function About(resumeData) {
             <span> Git Version Control</span> plus other popular libraries and
             frameworks. Currently working on solidifying my
             <span> JavaScript</span> and <span>React</span> fundamentals by
-            contributing to open source projects on GitHub.
+            contributing to open source projects on <span>GitHub</span>.
           </p>
         </div>
       </div>
