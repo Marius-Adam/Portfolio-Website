@@ -29,7 +29,7 @@ export default function About(resumeData) {
             <span> UI/UX</span> trends and I am proficient in
             <span> Git Version Control</span> plus other popular libraries and
             frameworks. Currently working on solidifying my
-            <span>JavaScript</span> and <span>React</span> fundamentals by
+            <span> JavaScript</span> and <span>React</span> fundamentals by
             contributing to open source projects on GitHub.
           </p>
         </div>
