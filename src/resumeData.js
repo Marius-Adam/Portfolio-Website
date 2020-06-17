@@ -38,8 +38,8 @@ let resumeData = {
     {
       modalLink: "#projectModal2",
       projectCover: "/images/projects/Project2.png",
-      captionHeading: "Responsive Navbar",
-      captionSub: "Vanilla JS SmoothScroll And ScrollSpy",
+      captionHeading: "Car Charging Points",
+      captionSub: "Interactive Map For Electric Cars",
     },
     {
       modalLink: "#projectModal3",
@@ -79,12 +79,12 @@ let resumeData = {
     },
     {
       modalId: "projectModal2",
-      projectTitle: "Responsive Navbar",
+      projectTitle: "Car Charging Points",
       projectDetails:
-        "This project was part of the Learn Vanilla JavaScript Challange. I decided to make it more challanging by also implementing SmoothScroll and SpyScroll.",
+        "Created using Open Charger API and React Mapbox. An interactive map showing all charging points around the user. Still in development, more features to be added soon.",
       projectImg: "/images/projects/Project2.png",
-      code: "https://github.com/Marius-Adam/responsive-navbar",
-      liveDemo: "https://marius-adam.github.io/responsive-navbar/",
+      code: "https://github.com/Marius-Adam/car-charging-points",
+      liveDemo: "https://stoic-carson-b251bf.netlify.app/",
     },
     {
       modalId: "projectModal3",
