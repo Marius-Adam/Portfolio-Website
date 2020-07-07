@@ -5,7 +5,7 @@ let resumeData = {
   surname: "Adam",
   jobTitle: "Front-End Developer",
   cvLink:
-    "https://drive.google.com/file/d/1ZMJYPHK_kjVDvNYcUz8uMMa0IEOMBgIs/view?usp=sharing",
+    "https://drive.google.com/file/d/1AmO_HBG5qmOQaMH-JaIMAgWdL7mJUwCM/view?usp=sharing",
   socialLinks: [
     {
       name: "LinkedIn",
